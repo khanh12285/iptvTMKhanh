@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được build bởi TMKhanh
 #Cần trợ giúp liên hệ Zalo: 0987713371
-#Update 09/07/2021
+#Update 11/07/2021
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
